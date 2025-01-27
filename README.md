@@ -1,4 +1,4 @@
-oid main() {
+void main() {
   // Perform addition
   int resultAddition = addition(5, 3);
   print('Result of addition: $resultAddition');
